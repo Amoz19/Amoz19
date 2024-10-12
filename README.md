@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoz19&label=Profile%20views&color=0e75b6&style=flat" alt="amoz19" /> </p>
 
-- 🔭 I’m currently working on [My portfolio](https://github.com/Amoz19/my-portfolio)
+- 🔭 I’m currently working on [Habit Tracker](https://github.com/Amoz19/Habit_Tracker)
 
-- 🌱 I’m currently learning **Nestjs**
-
-- 👯 I’m looking to collaborate on [Bank management system](https://github.com/sannlynnhtun-coding/bms_frontend_react)
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-navy-omega-42.vercel.app/](https://my-portfolio-navy-omega-42.vercel.app/)
 
