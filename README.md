@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Habit Tracker](https://github.com/Amoz19/Habit_Tracker)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **CS50**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-navy-omega-42.vercel.app/](https://my-portfolio-navy-omega-42.vercel.app/)
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **aungmon10co@gmail.com**
 
-- ⚡ Fun fact **🌈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
